@@ -1,0 +1,18 @@
+Scope and Limitations:
+
+The system is intended to help IT group handle reservation of equipments.It will be installed to a network folder of IT group only. Entertaining of requests is assigned to one IT staff at a time. A report generation option is available to provide hard copy for documentation and analysis purposes on usage statistics of IT equipment, demand vs availability, seasonal usage, and condition status of IT equipment. It is a help desk system that is unavailable for employees. Help desk is not a web-based application and does not require internet connection. Changes in equipment's details means an update to the database should be made by an authorized staff.
+
+List of equipments are:
+
+   1. Projectors
+   2. Digital Cameras
+   3. Video Cameras
+   4. Printers
+   5. Scanners
+   6. Extensions
+   7. Wide Screen
+   8. Laptops
+   9. Speaker
+  10. External Hard Disk
+  11. Portable CD/DVD Burner
+
