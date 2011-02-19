@@ -1,3 +1,8 @@
+
+Brief Description:
+
+IT Equipment Reservation Helpdesk (ITRH) aims to design and build software application that would serve as IT Equipment Log of an organization. The system will be used for assisting borrowers for their requested equipment’s details. Employee who wishes to borrow equipment must first inquire to the ITRO who would verify equipment’s availability. If available, reservation of time and date would follow. If not, borrower could view the log of reserved equipments to see who he can make arrangements with.
+
 Objectives:
 
 The goal of developing this software is to provide solutions for common issues from traditional hand-written reservations:
